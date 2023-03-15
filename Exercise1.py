@@ -1,0 +1,5 @@
+print("Diodorus Charis Alfiano")
+print("I0322039")
+print("Kota Wonogiri")
+print("Di sekitar rumah saya banyak pohon dan sawah, udara di sekitar rumah saya masih terbilang segar.")
+print("Harapan saya setelah lulus dari Teknik Industri adalah dapat menerapkan ilmu-ilmu yang ada baik dalam pekerjaan maupun dalam kehidupan pribadi saya.")
